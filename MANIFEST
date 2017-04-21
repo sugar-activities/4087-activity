@@ -1,0 +1,10 @@
+NEWS
+TODO
+setup.py
+COPYING
+README
+locale/en/LC_MESSAGES/org.laptop.APRSXO.mo
+locale/en/activity.linfo
+activity/activity-aprs-xo.svg
+activity/activity.info
+aprs.py

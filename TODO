@@ -1,0 +1,13 @@
+multi language
+
+beep on message receive
+
+cleanup timers on disconnect
+cleanup old acks in self.sent_acks{}
+cleanup old timers in self.timers[]
+
+auto reconnect?
+aprs.laptop.org?
+
+color coded status window
+gps

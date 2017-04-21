@@ -1,0 +1,15 @@
+September 14 2008 - version 0 started
+September 20 2008 - version 1 - no journal, no messaging
+September 22 2008 - version 2 - no journal, can not send messages, gui update
+September 25 2008 - version 3 - no journal, can not send messages, gui update
+September 28 2008 - version 4 - no journal, no message queue, gui update
+October 5 2008 - version 5 - no journal, can not cancel messages
+October 7 2008 - version 6 - no journal, can cancel message queue, show acks
+October 18 2008 - version 7 - no journal, ack bugfix
+October 18 2008 - version 8 - no journal, 8.2.0 update
+November 9 2008 - version 9 - journal works, message text in bold, scroll bugfix
+November 22 2008 - version 10 - changed journal, old messages are bolded on load
+December 29 2008 - version 11 - auto generate passwords, better bolding (NWS messages)
+May 18 2009 - version 12 - cqsrvr, show new bulletins, better URIs, clear button
+May 19 2009 - version 13 - updated links, help, activity.info
+May 30 2009 - version 14 - cancel individual messages, auto-complete tocall, yahoo zip codes

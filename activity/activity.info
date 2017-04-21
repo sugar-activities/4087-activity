@@ -1,0 +1,11 @@
+[Activity]
+name = APRS-XO
+activity_version = 14
+bundle_id = org.laptop.APRSXO
+service_name = org.laptop.APRSXO
+class = aprs.APRSActivity
+icon = activity-aprs-xo
+show_launcher = yes
+host_version = 1
+license = GPLv2+
+update_url = http://zielkeassociates.com/~jack/aprs-xo/update
